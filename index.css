@@ -47,7 +47,7 @@
 
 .header__info {
   margin: 0 auto 100px;
-  background: url("/img/headerimg.png") 0 0 / 100% no-repeat;
+  background: url("headerimg.png") 0 0 / 100% no-repeat;
   height: 700px;
   display: flex;
   flex-direction: column;
@@ -197,7 +197,7 @@
 
 .japan__block {
   margin-top: 70px;
-  background: url("/img/JAPAN.png") 0 0 /100% no-repeat;
+  background: url("JAPAN.png") 0 0 /100% no-repeat;
   height: 535px;
   display: flex;
   flex-direction: column;
@@ -271,13 +271,13 @@
 
 .tools__right {
   height: 450px;
-  background: url("/img/tools.png") 00 / 100% no-repeat;
+  background: url("tools.png") 00 / 100% no-repeat;
 }
 
 /* COSTARIKA */
 
 .costa-rika {
-  background: url("/img/costarika.png") 0 0 /100% no-repeat;
+  background: url("costarika.png") 0 0 /100% no-repeat;
   margin-top: 0px;
 }
 
@@ -333,7 +333,7 @@
 /* NEOPAL */
 
 .neopal {
-  background: url("/img/nepal.png") 0 0 /100% no-repeat;
+  background: url("nepal.png") 0 0 /100% no-repeat;
   margin-top: 0px;
 }
 
@@ -439,3 +439,4 @@
   cursor: pointer;
   padding-right: 5px;
 }
+
