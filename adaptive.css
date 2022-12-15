@@ -1,0 +1,17 @@
+@media(max-width:1024px){
+    .nav__item {
+        font-size: 11px;
+    }
+    .active {
+        padding: 8px 11px;
+        background: #ffffff;
+        border-radius: 11px;
+        color: #181818;
+      }
+}
+
+@media(max-width:767px){
+    .nav__item {
+       
+    }
+}
